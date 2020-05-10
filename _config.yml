@@ -79,7 +79,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: jekyll/minimal-mistakes-jekyll #jekyll/minima
+remote_theme: jekyll/minima
 
 titles_from_headings:
   enabled:     true
